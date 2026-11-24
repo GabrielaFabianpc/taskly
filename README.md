@@ -6,7 +6,6 @@ O foco do trabalho é a interface e a navegação entre as telas, por isso não 
 ## Links
 
 - Protótipo original (Figma): https://www.figma.com/design/WHXEhpNjhAkeoWTPveAkoo/Untitled?node-id=0-1
-- Documento de apresentação (explica cada tela, a navegação e o código): https://claude.ai/artifact/XuhMPNw9Gtwkj1XBzexJw2
 - Repositório: https://github.com/GabrielaFabianpc/taskly
 
 ## Telas implementadas
